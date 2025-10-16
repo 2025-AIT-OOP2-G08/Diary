@@ -1,7 +1,9 @@
 from diaries.DiarySample import DiarySample
 
 # ↓のリストには、メンバーの各自気が格納されます。
-diaries = [DiarySample(), ]
+diaries = [DiarySample(), 
+           KaiseiDiary(),
+           ]
 
 for d in diaries:
     print("---------------------------------")
