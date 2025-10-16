@@ -1,6 +1,6 @@
 from diaries.DiarySample import DiarySample
 from diaries.KaiseiDiary import KaiseiDiary
-from diaries.NakashimaDiary import NakashimaDiary
+from diaries.nakashimaDiary import NakashimaDiary
 
 # ↓のリストには、メンバーの各自気が格納されます。
 diaries = [DiarySample(), 
